@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="/css/tailwind.css" rel="stylesheet">
+    <title>{{ .Title }}</title>
+</head>
+<body class="bg-gray-100 text-gray-800 flex items-center justify-center min-h-screen">
+    <div class="container mx-auto px-4">
+        <h1 class="text-3xl font-bold my-4 text-center">{{ .Title }}</h1>
+        <h2 class="text-xl font-bold my-4 text-center">{{ .Params.subtitle }}</h2>
+        <div class="prose mx-auto">{{ .Content | safeHTML }}</div>
+    </div>
+</body>
+</html>
