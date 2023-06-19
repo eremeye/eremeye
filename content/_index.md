@@ -2,7 +2,7 @@
 title: "Egor Eremeev"
 subtitle: "AI-powered chatbots and assistants for customer service."
 ---
-With over a decade's experience across e-commerce and non-profit sectors, I currently focus on automating customer service.
+With over a decade of experience leveraging technology in the e-commerce and non-profit sectors, I currently specialize in the automation of customer service.
 
 I build AI-powered chatbots tailored to handle self-service and FAQs, develop AI assistants to offer reply suggestions to agents, and set up conversational platforms to integrate AI and live agents seamlessly.
 
